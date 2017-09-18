@@ -1,4 +1,6 @@
 # USBthief
+[![Build Status](https://travis-ci.org/thehackercat/USBthief.svg?branch=master)](https://travis-ci.org/smallmuou/travis-ci-tutorial)
+
 ### About
 
 USBthief is a python project created to make the possibility of stealing data from USB disk on Windows/Linux/MacOS. When run in background, it automatically scans USB devices and copies acquired files into local directory and goes undetected.:smiling_imp:
